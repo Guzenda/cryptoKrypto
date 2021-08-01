@@ -1,5 +1,8 @@
-Project features:
+Project backlog:
 - przełączanie giełd/inne api
+
+ble ble ble
+  
 - pobieranie aktualnych wartości ze strony
 - napewno,aby pokazywala cene
 - wykresy
