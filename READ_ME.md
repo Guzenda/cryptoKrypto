@@ -1,20 +1,22 @@
 Project features:
+- przełączanie giełd/inne api
 - pobieranie aktualnych wartosci ze strony
 - pokazywanie cen crypto
-- portwel
-- logowanie uzytkownika
-- transakcje
-- przeliczanie walut
 - wykresy
+- transakcje
+- historia
 - wyświetlanie TOP/sortowanie
 - maksymalna i minimalna cena w miesiacu/roku
-- historia
-- alerty
-- zleć kupno/sprzedaz przy zadanej wartosci
-  przełączanie giełd
+- przeliczanie walut
 - wiadomosci ze swiata
-- wyswietlania paska z wartosciami
-- market research
-- zmiana hasła
-- panel administracyjny konta
+  - market research
+- wyswietlania paska z wartosciami np. WIG20
+- alerty
+- portfel
+- filtry
+- zleć kupno/sprzedaz przy zadanej wartosci
 
+- panel administracyjny konta
+- logowanie uzytkownika
+- zmiana hasła
+- opcja premium
