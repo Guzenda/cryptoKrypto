@@ -1,22 +1,21 @@
-Project features:
+Project backlog:
 - przełączanie giełd/inne api
-- pobieranie aktualnych wartosci ze strony
-- pokazywanie cen crypto
+- pobieranie aktualnych wartości ze strony
+- napewno,aby pokazywala cene
 - wykresy
 - transakcje
 - historia
-- wyświetlanie TOP/sortowanie
-- maksymalna i minimalna cena w miesiacu/roku
+- wyswietlanie TOP/sortowanie
+- maksymalna i minnimalna cena w miesiacu
 - przeliczanie walut
-- wiadomosci ze swiata
-  - market research
-- wyswietlania paska z wartosciami np. WIG20
+- wiadomości ze świata  😀
+    - market research
+- wyswietlanie paska z wartościami np. WIG 20
 - alerty
 - portfel
 - filtry
-- zleć kupno/sprzedaz przy zadanej wartosci
-
-- panel administracyjny konta
-- logowanie uzytkownika
-- zmiana hasła
+- zleć kupno lub sprzedaż gdy wartość jest wybrana
+- panel administracji konta
+- może logowanie uzytkownika
+- zmiana hasla
 - opcja premium
